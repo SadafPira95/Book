@@ -14,5 +14,5 @@ void main() {
   surface Surface=surface((double x,double y) {
     print('Touch at: ($x,$y)');
   });
-  Surface.touch(334, 443.64);
+  Surface.touch(202.3, 134.0);
 }
